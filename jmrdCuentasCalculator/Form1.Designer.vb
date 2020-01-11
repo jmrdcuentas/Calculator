@@ -59,8 +59,10 @@ Partial Class Form1
         Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.0!)
         Me.TextBox1.Location = New System.Drawing.Point(12, 44)
         Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.RightToLeft = System.Windows.Forms.RightToLeft.Yes
         Me.TextBox1.Size = New System.Drawing.Size(350, 55)
         Me.TextBox1.TabIndex = 1
+        Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Button2
         '
@@ -213,7 +215,7 @@ Partial Class Form1
         Me.Button18.Name = "Button18"
         Me.Button18.Size = New System.Drawing.Size(75, 23)
         Me.Button18.TabIndex = 19
-        Me.Button18.Text = "sq. rt"
+        Me.Button18.Text = "C"
         Me.Button18.UseVisualStyleBackColor = True
         '
         'Button19

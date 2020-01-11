@@ -1,1 +1,11 @@
 c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\bin\Debug\jmrdCuentasCalculator.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\bin\Debug\jmrdCuentasCalculator.exe
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\bin\Debug\jmrdCuentasCalculator.pdb
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\bin\Debug\jmrdCuentasCalculator.xml
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\obj\Debug\jmrdCuentasCalculator.vbprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\obj\Debug\jmrdCuentasCalculator.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\obj\Debug\jmrdCuentasCalculator.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\obj\Debug\jmrdCuentasCalculator.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\obj\Debug\jmrdCuentasCalculator.exe
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\obj\Debug\jmrdCuentasCalculator.xml
+c:\users\acer\documents\visual studio 2015\Projects\jmrdCuentasCalculator\jmrdCuentasCalculator\obj\Debug\jmrdCuentasCalculator.pdb
